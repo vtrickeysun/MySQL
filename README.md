@@ -14,6 +14,10 @@ You will perform various SQL queries to retrieve useful information from the dat
 - ![Image 08-11-24 at 2 46 PM](https://github.com/user-attachments/assets/95470d19-23de-4528-a64a-1bc4219201b6)
 - ![Image 08-11-24 at 2 48 PM](https://github.com/user-attachments/assets/92d2bd31-4ba7-40a8-8870-51623d87c7e6)
 - ![Image 08-11-24 at 2 49 PM](https://github.com/user-attachments/assets/2aab90ba-38e7-4d7c-b910-d9d086b09932)
+- ![Image 08-11-24 at 3 14 PM](https://github.com/user-attachments/assets/88353573-9f7a-4d0a-a61e-0bd86ede6506)
+- ![Image 08-11-24 at 3 12 PM](https://github.com/user-attachments/assets/3c068aca-c4fe-4d66-93ca-62390e9ec263)
+
+
 
 
 
